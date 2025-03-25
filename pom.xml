@@ -8,10 +8,10 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cloud.project.spring</groupId>
-	<artifactId>back_end_spring_cloud</artifactId>
+	<groupId>com.microservice</groupId>
+	<artifactId>service.main</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>back_end_spring_cloud</name>
+	<name>service.main</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
